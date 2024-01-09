@@ -27,6 +27,7 @@ connection = pymysql.connect(
 В данном проекте работа происходит на СУБД MySQL
 
 Table: UsersData
+
 Colomn:
 - id (int)
 - username (text)
