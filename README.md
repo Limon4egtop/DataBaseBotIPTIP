@@ -42,3 +42,5 @@ Colomn:
 Key:
 - PRIMARY
     - id
+
+![Пример БД](https://i.imgur.com/suKkcUj.png)
